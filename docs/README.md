@@ -7,7 +7,7 @@ repository-name: cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Frontend-UI
 title: Organizer Dashboard Web UI and Client of the Engex Exhibition Crowd Management System
 ---
 
-# Peraverse Organizer Dashboard Web UI (Team-07)
+# Peraverse Organizer Dashboard Web UI (Team-14)
 
 A complete frontend interface for the 75Exhibition crowd management system, designed to provide organizers with real-time data, analytics, communication tools, and an efficient building and event management workflow. 
 
