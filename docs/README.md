@@ -13,7 +13,7 @@ A complete frontend interface for the 75Exhibition crowd management system, desi
 
 ---
 
-## 👥 Team and Supervisors
+##  Team and Supervisors
 
 | Role | E-Number | Name | Email |
 | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ A complete frontend interface for the 75Exhibition crowd management system, desi
 
 ---
 
-## 💡 Introduction
+##  Introduction
 
 The Organizer Dashboard Web UI is a feature-rich **Single Page Application (SPA)** developed using **React, TypeScript, and Tailwind CSS**. It serves as the primary client-side platform for interacting with the 75Exhibition backend microservices. The system enables organizers to monitor crowd activity, manage buildings and events, visualize **real-time analytics**, and communicate through live channels.
 
@@ -31,7 +31,7 @@ The application emphasizes high performance, **responsive UI design**, secure au
 
 ---
 
-## ✨ Complete Frontend Solution
+##  Complete Frontend Solution
 
 ### End-to-End Dashboard Application
 
@@ -48,7 +48,7 @@ The system provides a complete user experience, including:
 
 ---
 
-## 🛠️ Comprehensive Features and Architecture
+##  Comprehensive Features and Architecture
 
 ### Authentication and Security
 
@@ -76,7 +76,7 @@ This modular approach ensures maintainability and clear separation of concerns.
 
 ---
 
-## 🎨 UI and UX Design
+##  UI and UX Design
 
 * **Tailwind CSS-driven responsive layout.**
 * Component-based structure with reusable UI elements.
