@@ -7,7 +7,7 @@ repository-name: cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Frontend-UI
 title: Organizer Dashboard Web UI and Client of the Engex Exhibition Crowd Management System
 ---
 
-# Peraverse Organizer Dashboard Web UI (Team-14)
+# Peraverse Organizer Dashboard Web UI (Team-07)
 
 A complete frontend interface for the 75Exhibition crowd management system, designed to provide organizers with real-time data, analytics, communication tools, and an efficient building and event management workflow. 
 
@@ -88,44 +88,47 @@ This modular approach ensures maintainability and clear separation of concerns.
 
 ## How to Run
 
-Before running the frontend, ensure the **backend services are running** (refer to the backend project page).
-
 1. **Clone Repository**
-   ```bash
-   git clone [https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Frontend-UI.git](https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Frontend-UI.git)
-   cd e21-co227-PeraVerse-Organizer-Dashboard-Frontend-UI
-   ```
+```bash
+git clone https://github.com/cepdnaclk/Peraverse-Organizer-Dashboard-Core-Frontend.git
+cd Peraverse-Organizer-Dashboard-Core-Frontend
+```
 
 2. **Install Dependencies**
-   ```bash
-   npm install
-   ```
+
+   **Frontend**
+```bash
+npm install
+```
 
 3. **Environment Configuration**
-    * Create a `.env` file in the root directory and set the backend URL:
-        ```bash
-        VITE_BASE_API_URL=http://localhost:5000 
-        ```
 
-4. **Running the System Locally**
-    ```bash
-    npm run dev
-    # The application will run on the port shown in the console (e.g., http://localhost:5173).
-    # Navigate to http://localhost:5173/dashboard/
-    ```
+Create a `.env` file in the **root directory** and set the backend API URL:
+
+```bash
+VITE_BASE_API_URL=http://localhost:5000
+```
+
+4. **Running the Frontend Locally**
+
+The frontend will run on **http://localhost:5173**:
+
+```bash
+npm run dev
+# Navigate to http://localhost:5173/dashboard/ to access the dashboard
+```
 
 ---
 
 ## Links
 
-- [Frontend Repository](https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend)
-- [Backend Repository](https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend)
+- [Frontend Repository](https://github.com/cepdnaclk/Peraverse-Organizer-Dashboard-Core-Frontend)
 - [Project Page](https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Frontend-UI/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
----
-
-##  Project Tags
-
-`React`, `TypeScript`, `Vite`, `Tailwind CSS`, `WebSocket`, `Real-Time Dashboard`, `SPA`, `Responsive Design`, `JWT Authentication`, `Data Visualization`, `Frontend`, `UI/UX`, `75Exhibition`, `Crowd Management`
+### Tags
+`React`, `TypeScript`, `Vite`, `Tailwind CSS`, `WebSocket`,  
+`Real-Time Dashboard`, `SPA`, `Responsive Design`,  
+`JWT Authentication`, `Data Visualization`,  
+`Frontend`, `UI/UX`, `75Exhibition`, `Crowd Management`
