@@ -112,7 +112,7 @@ Before running the frontend, ensure the **backend services are running** (refer 
 
 ## Links
 
-- [Frontend Repository](https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Frontend)
+- [Frontend Repository](https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend)
 - [Backend Repository](https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend)
 - [Project Page](https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Frontend-UI/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
